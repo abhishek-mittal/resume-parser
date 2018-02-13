@@ -1,11 +1,13 @@
-var mammoth = require("mammoth");
-var fs = require('fs');
+const PDFParser = require("pdf2json")
 
-mammoth.extractRawText({path: "./shubham.docx"})
-    .then(function(result){
-        var text = result.value; // The raw text
-        console.log(text);
-        fs.writeFile("./test.txt", text);
-        var messages = result.messages;
-    })
-    .done();
+function pdfConvertor(pdfPath, callback) {
+    let pdfParser = new PDFParser(this, 1);
+    
+    pdfParser.loadPDF(pdfPath);
+    pdfParser.on("pdfParser_dataError", errData => console.error(errData.parserError) );
+    pdfParser.on("pdfParser_dataReady", pdfData => {
+        callback(null,pdfParser.getRawTextContent())
+    });
+}
+
+module.exports.pdfConvertor = pdfConvertor

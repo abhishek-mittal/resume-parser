@@ -1,0 +1,67 @@
+Chintareddy Sudhakar Reddy
+Full Stack developer
+An aspiring web developer seeking better understanding of the internet space
+chintareddy.sudhakarreddy@gmail.com9592038184Hyderabad, India
+EDUCATION
+08/2014 – Present
+B.Tech (Computer Science and Engineering)
+Lovely Professional University, Jalandhar
+8.22/10
+06/2012 – 05/2014
+XII (BIEAP)
+Sri Chaitanya Junior College, Vijayawada
+86.1%
+05/2012
+X (SSC)
+Sri Chaitanya Techno School, Kodad
+8.5/10
+PERSONAL PROJECTS
+Student Placement Service (04/2017 – 08/2017)
+Web based Application that could provide the placement servicesto the  students, which will take Username and Password to avail
+the services and if a student doesn’t have account, we will providethe registration process for the same.
+Used technologies like html5 ,css3, JavaScript, JQuery,mysql,php,BootStrap and Ajax
+Online Shopping (05/2017 – 07/2017)
+Web based Application which resembles mostly like the onlineshopping websites out there. It has all functionalities like a ideal
+shopping website including different sections of men and womenclothing.
+Used technologies like html5 ,css3 ,JavaScript, JQuery,BootStrap,mysql,php and Ajax
+Music Web Application (07/2017 – 08/2017)
+Web based Application that could play the songs which are indatabase and it provides option to user to send a request to admin
+for songs they need .
+Used technologies like html5 ,css3 ,JavaScript, JQuery,BootStrap,php and Mysql
+Wikipedia Viewer (10/2017 – Present)
+The application can be used to search relevant Wikipedia articles;also provides a link that presents the user with a random article.
+Used technologies like JavaScript, JQuery, BootStrap and wikipediaAPI
+Hostel Booking Management System (03/2016 –
+ 04/2016)
+I have learnt the implementation of various functions in Java andhow to relate them with the database. I have enhanced the security
+features of the website through intensive firewall system.
+Used technologies like java and Mysql.
+SKILLS
+HTML5CSS3BootStrapJQuery
+JavaScriptJavaPHPMySQLAjaxc
+c++
+ACHIEVEMENTS
+First Prize in an cultural event - One World (10/2016 –
+ 11/2016)
+Represented Nepal in One World event organized by Lovely ProfessionalUniversity
+Third Prize  in an cultural event - One India (03/2017 –
+ 04/2017)
+Represented Telangana in the One India event organized by LovelyProfessional University
+POSITIONS OF RESPONSIBILITY
+National Service Scheme (08/2015 – Present)
+Serves in the National Serves Scheme. Organized Pulse Polio and BloodDonation camps in villages near Lovely Professional University
+Student Coordinator - UBSS (09/2016 – 10/2016)
+Worked as a Student Coordinator for Uttar Bharatiya Chattra Sansad,Lovely Professional University
+CERTIFICATES
+Full Stack Web Development - Udemy (05/2017 –
+ 07/2017)
+Learnt complete web development techniques including HTML5, CSS3,PHP, MySQL, Ajax, JavaScript, JQuery
+Ethical Hacking Workshop (06/2016 – 08/2016)
+Earned Ethical Hacker certificate from Lovely Professional Univeristy.Learnt  keylogger's  tools  and  some  security tips
+LANGUAGES
+English
+Telugu
+Hindi
+INTERESTS
+DanceFine Arts
+----------------Page (0) Break----------------
